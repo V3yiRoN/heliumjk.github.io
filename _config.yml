@@ -7,8 +7,8 @@ pygments: false
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://heliumjk.github.io
-baseurl: "/heliumjk.github.io"
+url: https://V3yiRoN.github.io
+baseurl: "/V3yiRoN.github.io"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -24,8 +24,8 @@ post_limit: 5
 title : LFProductions
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
-  name : Antonio Trento
-  site: https://lantoniotrento.github.io
+  name : David Lindell Farken 
+  site: https://V3yiRoN.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
   email : david@lfproductions.se
@@ -37,7 +37,7 @@ author :
   pinterest: 
   feedburner:
 
-twitter_username: lantoniotrento
+twitter_username: 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
@@ -46,7 +46,7 @@ twitter_username: lantoniotrento
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://heliumjk.github.io
+#production_url : https://heliumjk.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
