@@ -14,28 +14,28 @@ baseurl: "/heliumjk.github.io"
 #
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 2973388149
-data-ad-client: ca-pub-9204963049240271
-google_ad_client: ca-pub-9204963049240271
+# data-ad-slot: 2973388149
+# data-ad-client: ca-pub-9204963049240271
+# google_ad_client: ca-pub-9204963049240271
 
 post_limit: 5
 
 
-title : Helium Jekyll
+title : LFProductions
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
   name : Antonio Trento
   site: https://lantoniotrento.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
-  feedburner : 
+  email : david@lfproductions.se
+  github : V3yiRoN
+  twitter : 
+  facebook: David Lindell 
+  linkedin: David Lindell Farken
+  instagram: 
+  pinterest: 
+  feedburner:
 
 twitter_username: lantoniotrento
 # The production_url is only used when full-domain names are needed
@@ -121,7 +121,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-94080000-1'
+        tracking_id : ''
     getclicky :
       site_id :
     mixpanel :
